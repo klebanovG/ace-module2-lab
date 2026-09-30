@@ -223,6 +223,10 @@ To verify that an AI agent (like GitHub Copilot or Claude) is correctly using th
 
 AI agents are productivity tools for enhancing development. You (or the person reviewing the PR) are responsible for the quality, correctness, and security of all contributions. Always review AI-generated code critically, test thoroughly, and follow the project's guidelines.
 
+## Fake section
+
+Need this to create a Pull Request
+
 ---
 
 **Last Updated**: April 2026
